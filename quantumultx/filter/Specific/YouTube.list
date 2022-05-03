@@ -9,184 +9,184 @@
 # IP-CIDR: 2
 # IP6-CIDR: 1
 # TOTAL: 181
-HOST,youtubei.googleapis.com,🎬 国外视频
-HOST,yt3.ggpht.com,🎬 国外视频
-HOST-SUFFIX,ggpht.cn,🎬 国外视频
-HOST-SUFFIX,ggpht.com,🎬 国外视频
-HOST-SUFFIX,googlevideo.com,🎬 国外视频
-HOST-SUFFIX,gvt2.com,🎬 国外视频
-HOST-SUFFIX,withyoutube.com,🎬 国外视频
-HOST-SUFFIX,youtu.be,🎬 国外视频
-HOST-SUFFIX,youtube-nocookie.com,🎬 国外视频
-HOST-SUFFIX,youtube.ae,🎬 国外视频
-HOST-SUFFIX,youtube.al,🎬 国外视频
-HOST-SUFFIX,youtube.am,🎬 国外视频
-HOST-SUFFIX,youtube.at,🎬 国外视频
-HOST-SUFFIX,youtube.az,🎬 国外视频
-HOST-SUFFIX,youtube.ba,🎬 国外视频
-HOST-SUFFIX,youtube.be,🎬 国外视频
-HOST-SUFFIX,youtube.bg,🎬 国外视频
-HOST-SUFFIX,youtube.bh,🎬 国外视频
-HOST-SUFFIX,youtube.bo,🎬 国外视频
-HOST-SUFFIX,youtube.by,🎬 国外视频
-HOST-SUFFIX,youtube.ca,🎬 国外视频
-HOST-SUFFIX,youtube.cat,🎬 国外视频
-HOST-SUFFIX,youtube.ch,🎬 国外视频
-HOST-SUFFIX,youtube.cl,🎬 国外视频
-HOST-SUFFIX,youtube.co,🎬 国外视频
-HOST-SUFFIX,youtube.co.ae,🎬 国外视频
-HOST-SUFFIX,youtube.co.at,🎬 国外视频
-HOST-SUFFIX,youtube.co.cr,🎬 国外视频
-HOST-SUFFIX,youtube.co.hu,🎬 国外视频
-HOST-SUFFIX,youtube.co.id,🎬 国外视频
-HOST-SUFFIX,youtube.co.il,🎬 国外视频
-HOST-SUFFIX,youtube.co.in,🎬 国外视频
-HOST-SUFFIX,youtube.co.jp,🎬 国外视频
-HOST-SUFFIX,youtube.co.ke,🎬 国外视频
-HOST-SUFFIX,youtube.co.kr,🎬 国外视频
-HOST-SUFFIX,youtube.co.ma,🎬 国外视频
-HOST-SUFFIX,youtube.co.nz,🎬 国外视频
-HOST-SUFFIX,youtube.co.th,🎬 国外视频
-HOST-SUFFIX,youtube.co.tz,🎬 国外视频
-HOST-SUFFIX,youtube.co.ug,🎬 国外视频
-HOST-SUFFIX,youtube.co.uk,🎬 国外视频
-HOST-SUFFIX,youtube.co.ve,🎬 国外视频
-HOST-SUFFIX,youtube.co.za,🎬 国外视频
-HOST-SUFFIX,youtube.co.zw,🎬 国外视频
-HOST-SUFFIX,youtube.com,🎬 国外视频
-HOST-SUFFIX,youtube.com.ar,🎬 国外视频
-HOST-SUFFIX,youtube.com.au,🎬 国外视频
-HOST-SUFFIX,youtube.com.az,🎬 国外视频
-HOST-SUFFIX,youtube.com.bd,🎬 国外视频
-HOST-SUFFIX,youtube.com.bh,🎬 国外视频
-HOST-SUFFIX,youtube.com.bo,🎬 国外视频
-HOST-SUFFIX,youtube.com.br,🎬 国外视频
-HOST-SUFFIX,youtube.com.by,🎬 国外视频
-HOST-SUFFIX,youtube.com.co,🎬 国外视频
-HOST-SUFFIX,youtube.com.do,🎬 国外视频
-HOST-SUFFIX,youtube.com.ec,🎬 国外视频
-HOST-SUFFIX,youtube.com.ee,🎬 国外视频
-HOST-SUFFIX,youtube.com.eg,🎬 国外视频
-HOST-SUFFIX,youtube.com.es,🎬 国外视频
-HOST-SUFFIX,youtube.com.gh,🎬 国外视频
-HOST-SUFFIX,youtube.com.gr,🎬 国外视频
-HOST-SUFFIX,youtube.com.gt,🎬 国外视频
-HOST-SUFFIX,youtube.com.hk,🎬 国外视频
-HOST-SUFFIX,youtube.com.hn,🎬 国外视频
-HOST-SUFFIX,youtube.com.hr,🎬 国外视频
-HOST-SUFFIX,youtube.com.jm,🎬 国外视频
-HOST-SUFFIX,youtube.com.jo,🎬 国外视频
-HOST-SUFFIX,youtube.com.kw,🎬 国外视频
-HOST-SUFFIX,youtube.com.lb,🎬 国外视频
-HOST-SUFFIX,youtube.com.lv,🎬 国外视频
-HOST-SUFFIX,youtube.com.ly,🎬 国外视频
-HOST-SUFFIX,youtube.com.mk,🎬 国外视频
-HOST-SUFFIX,youtube.com.mt,🎬 国外视频
-HOST-SUFFIX,youtube.com.mx,🎬 国外视频
-HOST-SUFFIX,youtube.com.my,🎬 国外视频
-HOST-SUFFIX,youtube.com.ng,🎬 国外视频
-HOST-SUFFIX,youtube.com.ni,🎬 国外视频
-HOST-SUFFIX,youtube.com.om,🎬 国外视频
-HOST-SUFFIX,youtube.com.pa,🎬 国外视频
-HOST-SUFFIX,youtube.com.pe,🎬 国外视频
-HOST-SUFFIX,youtube.com.ph,🎬 国外视频
-HOST-SUFFIX,youtube.com.pk,🎬 国外视频
-HOST-SUFFIX,youtube.com.pt,🎬 国外视频
-HOST-SUFFIX,youtube.com.py,🎬 国外视频
-HOST-SUFFIX,youtube.com.qa,🎬 国外视频
-HOST-SUFFIX,youtube.com.ro,🎬 国外视频
-HOST-SUFFIX,youtube.com.sa,🎬 国外视频
-HOST-SUFFIX,youtube.com.sg,🎬 国外视频
-HOST-SUFFIX,youtube.com.sv,🎬 国外视频
-HOST-SUFFIX,youtube.com.tn,🎬 国外视频
-HOST-SUFFIX,youtube.com.tr,🎬 国外视频
-HOST-SUFFIX,youtube.com.tw,🎬 国外视频
-HOST-SUFFIX,youtube.com.ua,🎬 国外视频
-HOST-SUFFIX,youtube.com.uy,🎬 国外视频
-HOST-SUFFIX,youtube.com.ve,🎬 国外视频
-HOST-SUFFIX,youtube.cr,🎬 国外视频
-HOST-SUFFIX,youtube.cz,🎬 国外视频
-HOST-SUFFIX,youtube.de,🎬 国外视频
-HOST-SUFFIX,youtube.dk,🎬 国外视频
-HOST-SUFFIX,youtube.ee,🎬 国外视频
-HOST-SUFFIX,youtube.es,🎬 国外视频
-HOST-SUFFIX,youtube.fi,🎬 国外视频
-HOST-SUFFIX,youtube.fr,🎬 国外视频
-HOST-SUFFIX,youtube.ge,🎬 国外视频
-HOST-SUFFIX,youtube.gr,🎬 国外视频
-HOST-SUFFIX,youtube.gt,🎬 国外视频
-HOST-SUFFIX,youtube.hk,🎬 国外视频
-HOST-SUFFIX,youtube.hr,🎬 国外视频
-HOST-SUFFIX,youtube.hu,🎬 国外视频
-HOST-SUFFIX,youtube.ie,🎬 国外视频
-HOST-SUFFIX,youtube.in,🎬 国外视频
-HOST-SUFFIX,youtube.iq,🎬 国外视频
-HOST-SUFFIX,youtube.is,🎬 国外视频
-HOST-SUFFIX,youtube.it,🎬 国外视频
-HOST-SUFFIX,youtube.jo,🎬 国外视频
-HOST-SUFFIX,youtube.jp,🎬 国外视频
-HOST-SUFFIX,youtube.kr,🎬 国外视频
-HOST-SUFFIX,youtube.kz,🎬 国外视频
-HOST-SUFFIX,youtube.la,🎬 国外视频
-HOST-SUFFIX,youtube.lk,🎬 国外视频
-HOST-SUFFIX,youtube.lt,🎬 国外视频
-HOST-SUFFIX,youtube.lu,🎬 国外视频
-HOST-SUFFIX,youtube.lv,🎬 国外视频
-HOST-SUFFIX,youtube.ly,🎬 国外视频
-HOST-SUFFIX,youtube.ma,🎬 国外视频
-HOST-SUFFIX,youtube.md,🎬 国外视频
-HOST-SUFFIX,youtube.me,🎬 国外视频
-HOST-SUFFIX,youtube.mk,🎬 国外视频
-HOST-SUFFIX,youtube.mn,🎬 国外视频
-HOST-SUFFIX,youtube.mx,🎬 国外视频
-HOST-SUFFIX,youtube.my,🎬 国外视频
-HOST-SUFFIX,youtube.ng,🎬 国外视频
-HOST-SUFFIX,youtube.ni,🎬 国外视频
-HOST-SUFFIX,youtube.nl,🎬 国外视频
-HOST-SUFFIX,youtube.no,🎬 国外视频
-HOST-SUFFIX,youtube.pa,🎬 国外视频
-HOST-SUFFIX,youtube.pe,🎬 国外视频
-HOST-SUFFIX,youtube.ph,🎬 国外视频
-HOST-SUFFIX,youtube.pk,🎬 国外视频
-HOST-SUFFIX,youtube.pl,🎬 国外视频
-HOST-SUFFIX,youtube.pr,🎬 国外视频
-HOST-SUFFIX,youtube.pt,🎬 国外视频
-HOST-SUFFIX,youtube.qa,🎬 国外视频
-HOST-SUFFIX,youtube.ro,🎬 国外视频
-HOST-SUFFIX,youtube.rs,🎬 国外视频
-HOST-SUFFIX,youtube.ru,🎬 国外视频
-HOST-SUFFIX,youtube.sa,🎬 国外视频
-HOST-SUFFIX,youtube.se,🎬 国外视频
-HOST-SUFFIX,youtube.sg,🎬 国外视频
-HOST-SUFFIX,youtube.si,🎬 国外视频
-HOST-SUFFIX,youtube.sk,🎬 国外视频
-HOST-SUFFIX,youtube.sn,🎬 国外视频
-HOST-SUFFIX,youtube.soy,🎬 国外视频
-HOST-SUFFIX,youtube.sv,🎬 国外视频
-HOST-SUFFIX,youtube.tn,🎬 国外视频
-HOST-SUFFIX,youtube.tv,🎬 国外视频
-HOST-SUFFIX,youtube.ua,🎬 国外视频
-HOST-SUFFIX,youtube.ug,🎬 国外视频
-HOST-SUFFIX,youtube.uy,🎬 国外视频
-HOST-SUFFIX,youtube.vn,🎬 国外视频
-HOST-SUFFIX,youtubeeducation.com,🎬 国外视频
-HOST-SUFFIX,youtubefanfest.com,🎬 国外视频
-HOST-SUFFIX,youtubegaming.com,🎬 国外视频
-HOST-SUFFIX,youtubego.co.id,🎬 国外视频
-HOST-SUFFIX,youtubego.co.in,🎬 国外视频
-HOST-SUFFIX,youtubego.com,🎬 国外视频
-HOST-SUFFIX,youtubego.com.br,🎬 国外视频
-HOST-SUFFIX,youtubego.id,🎬 国外视频
-HOST-SUFFIX,youtubego.in,🎬 国外视频
-HOST-SUFFIX,youtubei.googleapis.com,🎬 国外视频
-HOST-SUFFIX,youtubekids.com,🎬 国外视频
-HOST-SUFFIX,youtubemobilesupport.com,🎬 国外视频
-HOST-SUFFIX,yt.be,🎬 国外视频
-HOST-SUFFIX,ytimg.com,🎬 国外视频
-HOST-KEYWORD,youtube,🎬 国外视频
-USER-AGENT,*youtube*,🎬 国外视频
-USER-AGENT,YouTube*,🎬 国外视频
-USER-AGENT,com.google.ios.youtube*,🎬 国外视频
-IP-CIDR,172.110.32.0/21,🎬 国外视频
-IP-CIDR,216.73.80.0/20,🎬 国外视频
-IP6-CIDR,2620:120:e000::/40,🎬 国外视频
+HOST,youtubei.googleapis.com,YouTube
+HOST,yt3.ggpht.com,YouTube
+HOST-SUFFIX,ggpht.cn,YouTube
+HOST-SUFFIX,ggpht.com,YouTube
+HOST-SUFFIX,googlevideo.com,YouTube
+HOST-SUFFIX,gvt2.com,YouTube
+HOST-SUFFIX,withyoutube.com,YouTube
+HOST-SUFFIX,youtu.be,YouTube
+HOST-SUFFIX,youtube-nocookie.com,YouTube
+HOST-SUFFIX,youtube.ae,YouTube
+HOST-SUFFIX,youtube.al,YouTube
+HOST-SUFFIX,youtube.am,YouTube
+HOST-SUFFIX,youtube.at,YouTube
+HOST-SUFFIX,youtube.az,YouTube
+HOST-SUFFIX,youtube.ba,YouTube
+HOST-SUFFIX,youtube.be,YouTube
+HOST-SUFFIX,youtube.bg,YouTube
+HOST-SUFFIX,youtube.bh,YouTube
+HOST-SUFFIX,youtube.bo,YouTube
+HOST-SUFFIX,youtube.by,YouTube
+HOST-SUFFIX,youtube.ca,YouTube
+HOST-SUFFIX,youtube.cat,YouTube
+HOST-SUFFIX,youtube.ch,YouTube
+HOST-SUFFIX,youtube.cl,YouTube
+HOST-SUFFIX,youtube.co,YouTube
+HOST-SUFFIX,youtube.co.ae,YouTube
+HOST-SUFFIX,youtube.co.at,YouTube
+HOST-SUFFIX,youtube.co.cr,YouTube
+HOST-SUFFIX,youtube.co.hu,YouTube
+HOST-SUFFIX,youtube.co.id,YouTube
+HOST-SUFFIX,youtube.co.il,YouTube
+HOST-SUFFIX,youtube.co.in,YouTube
+HOST-SUFFIX,youtube.co.jp,YouTube
+HOST-SUFFIX,youtube.co.ke,YouTube
+HOST-SUFFIX,youtube.co.kr,YouTube
+HOST-SUFFIX,youtube.co.ma,YouTube
+HOST-SUFFIX,youtube.co.nz,YouTube
+HOST-SUFFIX,youtube.co.th,YouTube
+HOST-SUFFIX,youtube.co.tz,YouTube
+HOST-SUFFIX,youtube.co.ug,YouTube
+HOST-SUFFIX,youtube.co.uk,YouTube
+HOST-SUFFIX,youtube.co.ve,YouTube
+HOST-SUFFIX,youtube.co.za,YouTube
+HOST-SUFFIX,youtube.co.zw,YouTube
+HOST-SUFFIX,youtube.com,YouTube
+HOST-SUFFIX,youtube.com.ar,YouTube
+HOST-SUFFIX,youtube.com.au,YouTube
+HOST-SUFFIX,youtube.com.az,YouTube
+HOST-SUFFIX,youtube.com.bd,YouTube
+HOST-SUFFIX,youtube.com.bh,YouTube
+HOST-SUFFIX,youtube.com.bo,YouTube
+HOST-SUFFIX,youtube.com.br,YouTube
+HOST-SUFFIX,youtube.com.by,YouTube
+HOST-SUFFIX,youtube.com.co,YouTube
+HOST-SUFFIX,youtube.com.do,YouTube
+HOST-SUFFIX,youtube.com.ec,YouTube
+HOST-SUFFIX,youtube.com.ee,YouTube
+HOST-SUFFIX,youtube.com.eg,YouTube
+HOST-SUFFIX,youtube.com.es,YouTube
+HOST-SUFFIX,youtube.com.gh,YouTube
+HOST-SUFFIX,youtube.com.gr,YouTube
+HOST-SUFFIX,youtube.com.gt,YouTube
+HOST-SUFFIX,youtube.com.hk,YouTube
+HOST-SUFFIX,youtube.com.hn,YouTube
+HOST-SUFFIX,youtube.com.hr,YouTube
+HOST-SUFFIX,youtube.com.jm,YouTube
+HOST-SUFFIX,youtube.com.jo,YouTube
+HOST-SUFFIX,youtube.com.kw,YouTube
+HOST-SUFFIX,youtube.com.lb,YouTube
+HOST-SUFFIX,youtube.com.lv,YouTube
+HOST-SUFFIX,youtube.com.ly,YouTube
+HOST-SUFFIX,youtube.com.mk,YouTube
+HOST-SUFFIX,youtube.com.mt,YouTube
+HOST-SUFFIX,youtube.com.mx,YouTube
+HOST-SUFFIX,youtube.com.my,YouTube
+HOST-SUFFIX,youtube.com.ng,YouTube
+HOST-SUFFIX,youtube.com.ni,YouTube
+HOST-SUFFIX,youtube.com.om,YouTube
+HOST-SUFFIX,youtube.com.pa,YouTube
+HOST-SUFFIX,youtube.com.pe,YouTube
+HOST-SUFFIX,youtube.com.ph,YouTube
+HOST-SUFFIX,youtube.com.pk,YouTube
+HOST-SUFFIX,youtube.com.pt,YouTube
+HOST-SUFFIX,youtube.com.py,YouTube
+HOST-SUFFIX,youtube.com.qa,YouTube
+HOST-SUFFIX,youtube.com.ro,YouTube
+HOST-SUFFIX,youtube.com.sa,YouTube
+HOST-SUFFIX,youtube.com.sg,YouTube
+HOST-SUFFIX,youtube.com.sv,YouTube
+HOST-SUFFIX,youtube.com.tn,YouTube
+HOST-SUFFIX,youtube.com.tr,YouTube
+HOST-SUFFIX,youtube.com.tw,YouTube
+HOST-SUFFIX,youtube.com.ua,YouTube
+HOST-SUFFIX,youtube.com.uy,YouTube
+HOST-SUFFIX,youtube.com.ve,YouTube
+HOST-SUFFIX,youtube.cr,YouTube
+HOST-SUFFIX,youtube.cz,YouTube
+HOST-SUFFIX,youtube.de,YouTube
+HOST-SUFFIX,youtube.dk,YouTube
+HOST-SUFFIX,youtube.ee,YouTube
+HOST-SUFFIX,youtube.es,YouTube
+HOST-SUFFIX,youtube.fi,YouTube
+HOST-SUFFIX,youtube.fr,YouTube
+HOST-SUFFIX,youtube.ge,YouTube
+HOST-SUFFIX,youtube.gr,YouTube
+HOST-SUFFIX,youtube.gt,YouTube
+HOST-SUFFIX,youtube.hk,YouTube
+HOST-SUFFIX,youtube.hr,YouTube
+HOST-SUFFIX,youtube.hu,YouTube
+HOST-SUFFIX,youtube.ie,YouTube
+HOST-SUFFIX,youtube.in,YouTube
+HOST-SUFFIX,youtube.iq,YouTube
+HOST-SUFFIX,youtube.is,YouTube
+HOST-SUFFIX,youtube.it,YouTube
+HOST-SUFFIX,youtube.jo,YouTube
+HOST-SUFFIX,youtube.jp,YouTube
+HOST-SUFFIX,youtube.kr,YouTube
+HOST-SUFFIX,youtube.kz,YouTube
+HOST-SUFFIX,youtube.la,YouTube
+HOST-SUFFIX,youtube.lk,YouTube
+HOST-SUFFIX,youtube.lt,YouTube
+HOST-SUFFIX,youtube.lu,YouTube
+HOST-SUFFIX,youtube.lv,YouTube
+HOST-SUFFIX,youtube.ly,YouTube
+HOST-SUFFIX,youtube.ma,YouTube
+HOST-SUFFIX,youtube.md,YouTube
+HOST-SUFFIX,youtube.me,YouTube
+HOST-SUFFIX,youtube.mk,YouTube
+HOST-SUFFIX,youtube.mn,YouTube
+HOST-SUFFIX,youtube.mx,YouTube
+HOST-SUFFIX,youtube.my,YouTube
+HOST-SUFFIX,youtube.ng,YouTube
+HOST-SUFFIX,youtube.ni,YouTube
+HOST-SUFFIX,youtube.nl,YouTube
+HOST-SUFFIX,youtube.no,YouTube
+HOST-SUFFIX,youtube.pa,YouTube
+HOST-SUFFIX,youtube.pe,YouTube
+HOST-SUFFIX,youtube.ph,YouTube
+HOST-SUFFIX,youtube.pk,YouTube
+HOST-SUFFIX,youtube.pl,YouTube
+HOST-SUFFIX,youtube.pr,YouTube
+HOST-SUFFIX,youtube.pt,YouTube
+HOST-SUFFIX,youtube.qa,YouTube
+HOST-SUFFIX,youtube.ro,YouTube
+HOST-SUFFIX,youtube.rs,YouTube
+HOST-SUFFIX,youtube.ru,YouTube
+HOST-SUFFIX,youtube.sa,YouTube
+HOST-SUFFIX,youtube.se,YouTube
+HOST-SUFFIX,youtube.sg,YouTube
+HOST-SUFFIX,youtube.si,YouTube
+HOST-SUFFIX,youtube.sk,YouTube
+HOST-SUFFIX,youtube.sn,YouTube
+HOST-SUFFIX,youtube.soy,YouTube
+HOST-SUFFIX,youtube.sv,YouTube
+HOST-SUFFIX,youtube.tn,YouTube
+HOST-SUFFIX,youtube.tv,YouTube
+HOST-SUFFIX,youtube.ua,YouTube
+HOST-SUFFIX,youtube.ug,YouTube
+HOST-SUFFIX,youtube.uy,YouTube
+HOST-SUFFIX,youtube.vn,YouTube
+HOST-SUFFIX,youtubeeducation.com,YouTube
+HOST-SUFFIX,youtubefanfest.com,YouTube
+HOST-SUFFIX,youtubegaming.com,YouTube
+HOST-SUFFIX,youtubego.co.id,YouTube
+HOST-SUFFIX,youtubego.co.in,YouTube
+HOST-SUFFIX,youtubego.com,YouTube
+HOST-SUFFIX,youtubego.com.br,YouTube
+HOST-SUFFIX,youtubego.id,YouTube
+HOST-SUFFIX,youtubego.in,YouTube
+HOST-SUFFIX,youtubei.googleapis.com,YouTube
+HOST-SUFFIX,youtubekids.com,YouTube
+HOST-SUFFIX,youtubemobilesupport.com,YouTube
+HOST-SUFFIX,yt.be,YouTube
+HOST-SUFFIX,ytimg.com,YouTube
+HOST-KEYWORD,youtube,YouTube
+USER-AGENT,*youtube*,YouTube
+USER-AGENT,YouTube*,YouTube
+USER-AGENT,com.google.ios.youtube*,YouTube
+IP-CIDR,172.110.32.0/21,YouTube
+IP-CIDR,216.73.80.0/20,YouTube
+IP6-CIDR,2620:120:e000::/40,YouTube

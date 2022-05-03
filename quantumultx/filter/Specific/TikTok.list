@@ -7,22 +7,22 @@
 # HOST-KEYWORD: 5
 # HOST: 1
 # TOTAL: 19
-HOST,p16-tiktokcdn-com.akamaized.net,🎬 国外视频
-HOST-SUFFIX,byteoversea.com,🎬 国外视频
-HOST-SUFFIX,ibytedtos.com,🎬 国外视频
-HOST-SUFFIX,ibyteimg.com,🎬 国外视频
-HOST-SUFFIX,ipstatp.com,🎬 国外视频
-HOST-SUFFIX,muscdn.com,🎬 国外视频
-HOST-SUFFIX,musical.ly,🎬 国外视频
-HOST-SUFFIX,sgpstatp.com,🎬 国外视频
-HOST-SUFFIX,snssdk.com,🎬 国外视频
-HOST-SUFFIX,tik-tokapi.com,🎬 国外视频
-HOST-SUFFIX,tiktok.com,🎬 国外视频
-HOST-SUFFIX,tiktokcdn.com,🎬 国外视频
-HOST-SUFFIX,tiktokv.com,🎬 国外视频
-HOST-KEYWORD,-tiktokcdn-com,🎬 国外视频
-HOST-KEYWORD,musical.ly,🎬 国外视频
-HOST-KEYWORD,tiktok,🎬 国外视频
-HOST-KEYWORD,tiktokcdn-,🎬 国外视频
-HOST-KEYWORD,tiktokv,🎬 国外视频
-USER-AGENT,TikTok*,🎬 国外视频
+HOST,p16-tiktokcdn-com.akamaized.net,TikTok
+HOST-SUFFIX,byteoversea.com,TikTok
+HOST-SUFFIX,ibytedtos.com,TikTok
+HOST-SUFFIX,ibyteimg.com,TikTok
+HOST-SUFFIX,ipstatp.com,TikTok
+HOST-SUFFIX,muscdn.com,TikTok
+HOST-SUFFIX,musical.ly,TikTok
+HOST-SUFFIX,sgpstatp.com,TikTok
+HOST-SUFFIX,snssdk.com,TikTok
+HOST-SUFFIX,tik-tokapi.com,TikTok
+HOST-SUFFIX,tiktok.com,TikTok
+HOST-SUFFIX,tiktokcdn.com,TikTok
+HOST-SUFFIX,tiktokv.com,TikTok
+HOST-KEYWORD,-tiktokcdn-com,TikTok
+HOST-KEYWORD,musical.ly,TikTok
+HOST-KEYWORD,tiktok,TikTok
+HOST-KEYWORD,tiktokcdn-,TikTok
+HOST-KEYWORD,tiktokv,TikTok
+USER-AGENT,TikTok*,TikTok

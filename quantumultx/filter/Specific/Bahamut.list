@@ -6,9 +6,9 @@
 # USER-AGENT: 1
 # HOST-SUFFIX: 2
 # TOTAL: 6
-HOST,bahamut.akamaized.net,📺 港台番剧
-HOST,gamer-cds.cdn.hinet.net,📺 港台番剧
-HOST,gamer2-cds.cdn.hinet.net,📺 港台番剧
-HOST-SUFFIX,bahamut.com.tw,📺 港台番剧
-HOST-SUFFIX,gamer.com.tw,📺 港台番剧
-USER-AGENT,Anime*,📺 港台番剧
+HOST,bahamut.akamaized.net,Bahamut
+HOST,gamer-cds.cdn.hinet.net,Bahamut
+HOST,gamer2-cds.cdn.hinet.net,Bahamut
+HOST-SUFFIX,bahamut.com.tw,Bahamut
+HOST-SUFFIX,gamer.com.tw,Bahamut
+USER-AGENT,Anime*,Bahamut
