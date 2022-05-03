@@ -1,0 +1,39 @@
+# NAME: Telegram
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-03-22 02:12:39
+# IP-CIDR: 6
+# IP6-CIDR: 4
+# HOST-KEYWORD: 2
+# HOST-SUFFIX: 18
+# TOTAL: 30
+HOST-SUFFIX,comments.app,📕 国外社交
+HOST-SUFFIX,contest.com,📕 国外社交
+HOST-SUFFIX,graph.org,📕 国外社交
+HOST-SUFFIX,quiz.directory,📕 国外社交
+HOST-SUFFIX,stel.com,📕 国外社交
+HOST-SUFFIX,t.me,📕 国外社交
+HOST-SUFFIX,tdesktop.com,📕 国外社交
+HOST-SUFFIX,telega.one,📕 国外社交
+HOST-SUFFIX,telegra.ph,📕 国外社交
+HOST-SUFFIX,telegram.dog,📕 国外社交
+HOST-SUFFIX,telegram.me,📕 国外社交
+HOST-SUFFIX,telegram.org,📕 国外社交
+HOST-SUFFIX,telegram.space,📕 国外社交
+HOST-SUFFIX,telegramdownload.com,📕 国外社交
+HOST-SUFFIX,telesco.pe,📕 国外社交
+HOST-SUFFIX,tg.dev,📕 国外社交
+HOST-SUFFIX,tx.me,📕 国外社交
+HOST-SUFFIX,usercontent.dev,📕 国外社交
+HOST-KEYWORD,nicegram,📕 国外社交
+HOST-KEYWORD,telegram,📕 国外社交
+IP-CIDR,109.239.140.0/24,📕 国外社交
+IP-CIDR,149.154.160.0/20,📕 国外社交
+IP-CIDR,185.76.151.0/24,📕 国外社交
+IP-CIDR,91.105.192.0/23,📕 国外社交
+IP-CIDR,91.108.0.0/16,📕 国外社交
+IP-CIDR,95.161.64.0/20,📕 国外社交
+IP6-CIDR,2001:67c:4e8::/48,📕 国外社交
+IP6-CIDR,2001:b28:f23c::/47,📕 国外社交
+IP6-CIDR,2001:b28:f23f::/48,📕 国外社交
+IP6-CIDR,2a0a:f280::/32,📕 国外社交

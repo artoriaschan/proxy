@@ -1,0 +1,35 @@
+# NAME: Twitter
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-05-01 02:12:42
+# HOST-SUFFIX: 18
+# HOST-KEYWORD: 1
+# IP-CIDR: 8
+# TOTAL: 27
+HOST-SUFFIX,ads-twitter.com,📕 国外社交
+HOST-SUFFIX,periscope.tv,📕 国外社交
+HOST-SUFFIX,pscp.tv,📕 国外社交
+HOST-SUFFIX,t.co,📕 国外社交
+HOST-SUFFIX,tellapart.com,📕 国外社交
+HOST-SUFFIX,tweetdeck.com,📕 国外社交
+HOST-SUFFIX,twimg.co,📕 国外社交
+HOST-SUFFIX,twimg.com,📕 国外社交
+HOST-SUFFIX,twimg.org,📕 国外社交
+HOST-SUFFIX,twitpic.com,📕 国外社交
+HOST-SUFFIX,twitter.com,📕 国外社交
+HOST-SUFFIX,twitter.jp,📕 国外社交
+HOST-SUFFIX,twitterinc.com,📕 国外社交
+HOST-SUFFIX,twitteroauth.com,📕 国外社交
+HOST-SUFFIX,twitterstat.us,📕 国外社交
+HOST-SUFFIX,twtrdns.net,📕 国外社交
+HOST-SUFFIX,twttr.com,📕 国外社交
+HOST-SUFFIX,vine.co,📕 国外社交
+HOST-KEYWORD,twitter,📕 国外社交
+IP-CIDR,104.244.42.0/21,📕 国外社交
+IP-CIDR,192.133.76.0/22,📕 国外社交
+IP-CIDR,199.16.156.0/22,📕 国外社交
+IP-CIDR,199.59.148.0/22,📕 国外社交
+IP-CIDR,199.96.56.0/21,📕 国外社交
+IP-CIDR,202.160.128.0/22,📕 国外社交
+IP-CIDR,209.237.192.0/19,📕 国外社交
+IP-CIDR,69.195.160.0/19,📕 国外社交
