@@ -1,0 +1,20 @@
+quantumultx/quantumult.conf
+  s_a6712803d08a28::t_b0b72ae3b3fd3d 85,87-98
+  s_a6712803d08a28::t_ad512be524d2f7 30,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10-trip",
+  "base_commit_sha": "054f8b788b526230208d0c0bd36eb3a3537185ac",
+  "prompts": {},
+  "sessions": {
+    "s_a6712803d08a28": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9108-ef55-75e1-ae44-b65c912cf417",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ZhengChen <zchen31@trip.com>"
+    }
+  }
+}
